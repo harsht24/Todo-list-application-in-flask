@@ -1,5 +1,5 @@
 # Todo List application in Flask(Python)
-Our app will have the following main features:
+This app has the following main features:
 - Create an item in the todo list
 - Read the complete todo list
 - Update the items with status as "Not Started", "In Progress", or "Complete"
